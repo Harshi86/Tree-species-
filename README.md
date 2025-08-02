@@ -1,8 +1,3 @@
-# Tree-species-
-🌳 Tree Intelligence Assistant
-This AI-powered app helps students and nature enthusiasts identify and explore tree species based on image, location, and tree attributes.
-
-
 
 # 🌳 Tree Species Classification 
 
@@ -181,7 +176,7 @@ TREE_SPECIES_CLASSIFICATION/
 ### Step 1: Environment Setup
 ```bash
 # Clone repository
-git clone https://github.com/Mayank-choudhary0001/Tree-Species-Classification.git
+git clone https://github.com/Harshi86/Tree-species-.git
 cd TREE_SPECIES_CLASSIFICATION
 
 # Create virtual environment (recommended)
@@ -258,9 +253,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-**Author**: Mayank Choudhary  
-**GitHub**: https://github.com/Mayank-choudhary0001  
-**Repository**: [TREE_SPECIES_CLASSIFICATION](https://github.com/Mayank-choudhary0001/Tree-Species-Classification.git)
+**Author**: Harshi86  
+**GitHub**: https://github.com/Harshi86/Tree-species-.git  
+**Repository**: [Tree-species-](https://github.com/Harshi86/Tree-species-.git)
 
 
 ## 🙏 Acknowledgments
