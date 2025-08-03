@@ -38,6 +38,8 @@ The **Tree Species Classification** is a comprehensive machine learning solution
 
 Built with modern ML frameworks and deployed as an interactive web application.
 
+basic_cnn_tree_species and improves_cnn_model link
+https://drive.google.com/drive/folders/1uG7xTjo4VIt2LurB6fxL1RiXBMjwL6VS?usp=sharing
 ---
 
 ## 🚀 Quick Start
